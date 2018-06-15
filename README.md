@@ -1,4 +1,4 @@
-# FiniteMachineState
+# CommandMenager
 
 A library for Dart developers.
 
