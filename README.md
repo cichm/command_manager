@@ -1,4 +1,4 @@
-# CommandMenager
+# CommandManager
 
 A library for Dart developers.
 
